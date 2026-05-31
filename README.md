@@ -29,4 +29,4 @@ what drives success — ratings, installs and reviews.
 ## Author
 **Eknoor Singh**
 Data Analyst | Python | Pandas | Matplotlib
-🔗 linkedin.com/in/eknoor-sin
+
